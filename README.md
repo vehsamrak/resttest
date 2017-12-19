@@ -1,7 +1,7 @@
 Rest unit testing tool for Golang
 =================================
 
-[![design-outdoor-furniture-sofa-table-sunchaire-re.jpg](https://s26.postimg.org/d319nl1op/design-outdoor-furniture-sofa-table-sunchaire-re.jpg)](https://postimg.org/image/6pc6kbwsl/)
+[![design-outdoor-furniture-sofa-table-sunchaire-re.jpg](https://s26.postimg.org/d319nl1op/design-outdoor-furniture-sofa-table-sunchaire-re.jpg)]
 
 ## With resttest you can
 
