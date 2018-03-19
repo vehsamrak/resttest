@@ -3,7 +3,7 @@ Rest unit testing tool for Golang
 
 ![design-outdoor-furniture-sofa-table-sunchaire-re.jpg](https://s26.postimg.org/d319nl1op/design-outdoor-furniture-sofa-table-sunchaire-re.jpg)
 
-## With resttest you can
+## With `resttest` you can
 
 * Emulate HTTP request to test resulting HTTP response
 * Gather response body, code and headers to assert them
